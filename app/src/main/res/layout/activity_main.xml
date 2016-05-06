@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="horizontal">
+
+
+    <!--<EditText
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height"
+        android:layout_marginLeft="@dimen/left"
+        android:layout_marginRight="@dimen/right"
+        android:background="@drawable/draw_one"/>
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height"
+        android:layout_marginLeft="@dimen/left"
+        android:layout_marginRight="@dimen/right"
+        android:layout_marginTop="@dimen/margin_top"
+        android:background="@drawable/draw_two"/>-->
+
+
+   <!-- <TextView
+        android:layout_width="@dimen/height"
+        android:layout_height="@dimen/height"
+        android:layout_marginLeft="@dimen/left"
+        android:text="-"
+        android:gravity="center"
+        android:background="@drawable/draw_three"/>
+
+    <TextView
+        android:layout_width="@dimen/height"
+        android:layout_height="@dimen/height"
+        android:text="0"
+        android:gravity="center"
+        android:background="@drawable/draw_five"/>
+
+
+    <TextView
+        android:layout_width="@dimen/height"
+        android:layout_height="@dimen/height"
+        android:layout_marginRight="@dimen/right"
+        android:text="+"
+        android:gravity="center"
+        android:background="@drawable/draw_six"/>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginRight="@dimen/right"
+        android:gravity="center"
+        android:background="@drawable/draw_one"/>-->
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/draw_senven"
+        android:minHeight="30dp"
+        android:minWidth="60dp"
+        android:gravity="center"
+        android:text="撒地啊手动阀方"
+        android:paddingLeft="8dp"
+        android:paddingRight="8dp"
+        />
+
+
+
+</LinearLayout>
